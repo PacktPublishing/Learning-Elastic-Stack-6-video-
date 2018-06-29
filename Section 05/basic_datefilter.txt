@@ -1,0 +1,11 @@
+filter {
+    date {
+    match => [ "timestamp", "dd/MMM/YYYY:HH:mm:ss Z" ]
+    target => "event_timestamp"
+        }
+}
+
+////
+
+match => [ "eventdate", "dd/MMM/YYYY:HH:mm:ss Z", "MMM dd yyyy
+HH:mm:ss","MMM d yyyy HH:mm:ss", "ISO8601" ]

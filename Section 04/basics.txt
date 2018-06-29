@@ -1,0 +1,26 @@
+POST /<index_name>/<type_name>/_search
+{
+  "query":
+  {
+    ... type of query ...
+  }
+}
+
+////
+
+POST /<index_name>/<type_name>/_search
+{
+  "aggs": {
+    ... type of aggregation ...
+          },
+  "query": { ... type of query ... },
+  "size": 0
+}
+
+////
+
+SELECT column1, count(*) FROM table1 GROUP BY column1;
+
+////
+
+SELECT avg(score) FROM results;

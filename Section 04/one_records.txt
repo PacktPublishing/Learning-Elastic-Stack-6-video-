@@ -1,0 +1,21 @@
+"_source": {
+"customer": "Google"
+"accessPointId": "AP-59484",
+"time": 1506148631061,
+"mac": "c6:ec:7d:c6:3d:8d",
+"username": "Pedro Harrison",
+"department": "Operations",
+"application": "CNBC",
+"category": "News",
+"networkId": "Internal",
+"band": "5 GHz",
+"location": "23.102789,72.595381",
+"uploadTotal": 1340,
+"downloadTotal": 2129,
+"usage": 3469,
+"uploadCurrent": 22.33,
+"downloadCurrent": 35.48,
+"bandwidth": 57.82,
+"signalStrength": -25,             
+...
+}
