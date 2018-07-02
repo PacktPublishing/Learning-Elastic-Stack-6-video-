@@ -20,7 +20,9 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This course is for data professionals who want to get amazing insights and business metrics from their data sources. If you want to get a fundamental understanding of the Elastic Stack for distributed, real-time processing of data, this book will help you. A fundamental knowledge of JSON would be useful, but is not mandatory. No previous experience with the Elastic Stack is required.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Elastic search 6.x, Logstash, Kibana
+[Elasticsearch](https://www.elastic.co/downloads/elasticsearch)<br/> 
+[Logstash](https://www.elastic.co/downloads/kibana)<br/>
+[Kibana](https://www.elastic.co/downloads/kibana)
 
 ## Related Products
 * [Getting Started with Elastic Stack [Video]](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-elastic-stack?utm_source=github&utm_medium=repository&utm_campaign=9781787283022)
